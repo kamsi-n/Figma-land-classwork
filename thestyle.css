@@ -1,0 +1,79 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.orange-div {
+    background-color: #e28425;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 4vh;
+    padding-left: 3%;
+    padding-right: 1%;
+    border-radius: 1rem 0 0 1rem;
+}
+
+.blue-div {
+    background-color: #05515a;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 4vh;
+    padding-left: 3%;
+    padding-right: 1%;
+}
+
+.green-div {
+    background-color: #052c24;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 4vh;
+    padding-left: 3%;
+    padding-right: 1%;
+    border-radius: 0 1rem 1rem 0 ;
+}
+
+.o-button {
+    background-color: white;
+    font-size: 15px;
+    padding: 13px 30px 10px 30px;
+    color: #e28425;
+    border: none;
+    border-radius: 1rem;
+    align-items: center;
+    margin-left: 10%;
+    margin-bottom: 20%;
+    margin-top: 40%;
+}
+
+.b-button {
+    background-color: white;
+    font-size: 15px;
+    padding: 13px 30px 10px 30px;
+    color: #05515a;
+    border: none;
+    border-radius: 1rem;
+    align-items: center;
+    margin-left: 10%;
+    margin-bottom: 20%;
+    margin-top: 40%;
+}
+
+.g-button {
+    background-color: white;
+    font-size: 15px;
+    padding: 13px 30px 10px 30px;
+    color: #052c24;
+    border: none;
+    border-radius: 1rem;
+    align-items: center;
+    margin-left: 10%;
+    margin-bottom: 20%;
+    margin-top: 40%;
+}
+
+img {
+    max-width: 7em;
+    margin-right: 30%;
+}
